@@ -6,7 +6,8 @@ export const Bio = {
         "Full Stack Developer",
         "UI/UX Designer",
         "Android Developer",
-        "Programmer"
+        "Programmer",
+        "Web Developer"
     ],
     description:"Hey there! I'm Hitesh Mori, a third-year CSE student at Nirma University. I love developing mobile and web applications, constantly exploring new technologies and improving my skills. Let's connect and create something amazing together!",
     github : "https://github.com/Hitesh123mori",
