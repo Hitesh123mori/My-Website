@@ -8,7 +8,7 @@ import Skills from "./components/Skills"
 import Education from "./components/Education";
 import Experience from './components/experinece';
 import Projects from './components/Projects'
-
+import { Analytics } from "@vercel/analytics/react"
 import Footer from "./components/Footer";
 import ProjectDetails from "./components/ProjectDetails";
 import { BrowserRouter as Router } from 'react-router-dom';
@@ -49,6 +49,7 @@ function App() {
           {openModal.state &&
             <ProjectDetails openModal={openModal} setOpenModal={setOpenModal} />
           }
+          <Analytics />
         </Body>
       </Router>
     </ThemeProvider>
