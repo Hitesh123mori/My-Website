@@ -265,6 +265,23 @@ export const projects = [
             catagory:"Android App",
             github:"https://github.com/Niraj-KC/tic-tech-toe-2023",
      },
+     {
+        id:"7",
+        title:"Khedut Mitra",
+        description:"We completed a project at Hackout 2024, DAIICT hackathon.(Top 10)",
+        image:"https://firebasestorage.googleapis.com/v0/b/mori-hitesh.appspot.com/o/khedut_mitra_cover.jpg?alt=media&token=996dad56-7143-4f61-9498-7c963ebc7b20",
+        tags:[
+            "Flutter",
+            "Dart",
+            "Firebase",
+            "CNN",
+            "Flask",
+            "Python"
+
+        ],
+        catagory:"Android App",
+        github:"https://github.com/Hitesh123mori/hack_24",
+ },
      
 
 
