@@ -3,20 +3,17 @@
 export const Bio = {
     name:"Hitesh Mori",
     roles:[
-        "Full Stack Developer",
         "Android App Developer",
         "Ios App Developer",
-        "Web Developer",
         "Programmer",
         "UI/UX Designer",
-        
         
     ],
     description:"Hey there! I'm Hitesh Mori, a third-year CSE student at Nirma University. I love developing mobile and web applications, constantly exploring new technologies and improving my skills. Let's connect and create something amazing together!",
     github : "https://github.com/Hitesh123mori",
     linkedin:"https://www.linkedin.com/in/hitesh-mori-562673273",
     email:"hiteshvmori@gmail.com",
-    resume:"https://drive.google.com/file/d/19VEg0doIEmVsXGR7B_thT26H5IbABgN7/view?usp=sharing"
+    resume:"https://drive.google.com/file/d/1eWY_ajbil9s4FbG_W9Jy2-wuMLd35zHQ/view?usp=sharing"
 
 };
 
@@ -39,16 +36,8 @@ export const skills = [
             image:"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
         },
         {
-            name:"React",
-            image:"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
-        },
-        {
             name:"Flutter",
             image:"https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png",
-        },
-        {
-            name:"Bootstrap",
-            image:"https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"
         },
     ],
 },
@@ -122,7 +111,19 @@ export const experience = [
         id:0,
         company:"Computer Society of india",
         role:"Core member",
-        duration:"Sep 2023 - Now",
+        duration:"Fev 2024 - Now",
+        skills:[
+            "Hackthon Organized",
+            "Team Management",
+            "Event Management",
+            "Communication",
+            ],
+    },
+    {
+        id:1,
+        company:"Computer Society of india",
+        role:"Executive member",
+        duration:"Sep 2023 - Feb 2024",
         skills:[
             "Team Management",
             "Event Management",
@@ -151,7 +152,7 @@ export const education = [
         img: "",
         school: "Nirma University,Ahemedabad",
         date: "Sep 2022 - June 2026",
-        grade: "7.8",
+        grade: "7.65",
         desc: "I am currently pursuing my B-Tech in Computer Science at Nirma University.",
         degre:"Computer Science & Engineering",
       },
