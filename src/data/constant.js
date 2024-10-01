@@ -13,7 +13,7 @@ export const Bio = {
     github: "https://github.com/Hitesh123mori",
     linkedin: "https://www.linkedin.com/in/hitesh-mori-562673273",
     email: "hiteshvmori@gmail.com",
-    resume: "https://drive.google.com/file/d/1eWY_ajbil9s4FbG_W9Jy2-wuMLd35zHQ/view?usp=sharing"
+    resume: "https://drive.google.com/file/d/1l5BZjOyBXpkxYxcelRgQqRAB6Crnc-BP/view?usp=sharing"
 
 };
 
