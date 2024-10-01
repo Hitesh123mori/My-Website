@@ -165,8 +165,10 @@ export const education = [
 
 export const projects = [
 
+    
+
     {
-        id:"0",
+        id:"9",
         title:"Contact Manager",
         description:"I completed a project using Flutter and Dart with Firebase as the database, incorporating data structures and algorithms (DSA) for more efficient searching and sorting. It showcases my skills in mobile app development and backend integration.",
         image:"https://firebasestorage.googleapis.com/v0/b/mori-hitesh.appspot.com/o/contact_manager_cover.jpg?alt=media&token=b6955d5e-dc5d-44bc-94e5-5b12caa90299",
@@ -180,7 +182,7 @@ export const projects = [
     },
     
     {
-        id:"1",
+        id:"8",
         title:"Video Confirence",
         description:"I completed a project using Flutter and Dart with Firebase as the database. It allows users to create new meetings, schedule meetings, share screens, and more. This project showcases my skills in mobile app development and backend integration.",
         image:"https://firebasestorage.googleapis.com/v0/b/mori-hitesh.appspot.com/o/meetwith_cover.jpg?alt=media&token=c56b7aa0-1b9d-4c67-813c-4f7069ef75a4",
@@ -196,7 +198,7 @@ export const projects = [
     },
     
     {
-        id:"2",
+        id:"7",
         title:"SmartLink",
         description:"We completed a project using Flutter, Dart, Firebase at Ingenium 5, Ahmedabad University hackathon.",
         image:"https://firebasestorage.googleapis.com/v0/b/mori-hitesh.appspot.com/o/smartlink_cover.jpg?alt=media&token=f0861375-43e2-4421-904f-8c32f3e50011",
@@ -209,7 +211,7 @@ export const projects = [
         github:"https://github.com/Hitesh123mori/ingenious-5.0",
     },
     {
-        id:"3",
+        id:"6",
         title:"ChatApp",
         description:"I completed a project using Flutter and Dart with Firebase as the database.",
         image:"https://firebasestorage.googleapis.com/v0/b/mori-hitesh.appspot.com/o/chat_cover.jpg?alt=media&token=92dbf06c-7a4e-4074-aba8-07dfaa487307",
@@ -223,7 +225,7 @@ export const projects = [
         github:"https://github.com/Hitesh123mori/Chat_App",
     },
     {
-        id:"4",
+        id:"5",
         title:"ScannerApp",
         description:"We completed a project using Flutter, Dart, Firebase at HackNUThon 4.0, Nirma University University hackathon.(5th Rank)",
         image:"https://firebasestorage.googleapis.com/v0/b/mori-hitesh.appspot.com/o/fetch_info_cover.jpg?alt=media&token=45f943e4-dce7-41db-a417-83bfa45bdfb5",
@@ -236,7 +238,7 @@ export const projects = [
         github:"https://github.com/Hitesh123mori/Scanner-App---Flutter",
     },
     {
-        id:"5",
+        id:"4",
         title:"EduShakha",
         description:"We completed a project using Flutter, Dart, MongoDB,Django at Hackout 2023, DAIICT hackathon.(7th Rank)",
         image:"https://firebasestorage.googleapis.com/v0/b/mori-hitesh.appspot.com/o/edushakha_cover.jpg?alt=media&token=7959e8e9-f53d-462e-bcba-dcc06854a645",
@@ -250,7 +252,7 @@ export const projects = [
         github:"https://github.com/Niraj-KC/Edusakha-Hackout-23",
     },
     {
-            id:"6",
+            id:"3",
             title:"MedEase",
             description:"We completed a project at Tic Tech Toe 2023, DAIICT hackathon.(2nd Rank)",
             image:"https://firebasestorage.googleapis.com/v0/b/mori-hitesh.appspot.com/o/med_ease_cover.jpg?alt=media&token=b5d6a3ae-5410-4b52-9269-0d400446d140",
@@ -270,7 +272,7 @@ export const projects = [
             github:"https://github.com/Niraj-KC/tic-tech-toe-2023",
      },
      {
-        id:"7",
+        id:"2",
         title:"Khedut Mitra",
         description:"We completed a project at Hackout 2024, DAIICT hackathon.(Top 10)",
         image:"https://firebasestorage.googleapis.com/v0/b/mori-hitesh.appspot.com/o/khedut_mitra_cover.jpg?alt=media&token=996dad56-7143-4f61-9498-7c963ebc7b20",
@@ -285,7 +287,25 @@ export const projects = [
         ],
         catagory:"Android App",
         github:"https://github.com/Hitesh123mori/hack_24",
- },
+     },
+
+     {
+        id:"1",
+        title:"Edu Flow",
+        description:"We completed a project at TicTechToe 2024, DAIICT hackathon.(Top 10)",
+        image:"https://firebasestorage.googleapis.com/v0/b/mori-hitesh.appspot.com/o/EduFlow_cover.png?alt=media&token=8b32b179-9370-4360-8b19-33368343ff60",
+        tags:[
+            "Flutter",
+            "Dart",
+            "Firebase",
+            "CNN",
+            "Flask",
+            "Python"
+
+        ],
+        catagory:"Android App",
+        github:"https://github.com/Niraj-KC/tic-tech-teo-24/tree/main/teach_assist",
+     },
      
 
 
