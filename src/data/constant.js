@@ -13,7 +13,7 @@ export const Bio = {
     github: "https://github.com/Hitesh123mori",
     linkedin: "https://www.linkedin.com/in/hitesh-mori-562673273",
     email: "hiteshvmori@gmail.com",
-    resume: "https://drive.google.com/file/d/1l5BZjOyBXpkxYxcelRgQqRAB6Crnc-BP/view?usp=sharing"
+    resume: "https://drive.google.com/file/d/1Uixju-rClpZ783zkcbsbRjGpbLrPUFQd/view?usp=drive_link"
 
 };
 
@@ -152,7 +152,7 @@ export const education = [
         img: "",
         school: "Nirma University,Ahemedabad",
         date: "Sep 2022 - June 2026",
-        grade: "7.65",
+        grade: "7.74",
         desc: "I am currently pursuing my B-Tech in Computer Science at Nirma University.",
         degre: "Computer Science & Engineering",
     },
@@ -312,15 +312,56 @@ export const projects = [
         github: "https://github.com/Hitesh123mori/Contact_Manager",
     },
 
+    {
+        id: "10",
+        title: "FraudEye",
+        description: "We completed a project using Flutter,Dart,Firebase,ML,Python,Flask,at HackNuThon 6.0, Nirma University. ",
+        image: "https://firebasestorage.googleapis.com/v0/b/mori-hitesh.appspot.com/o/FraudEye_cover.png?alt=media&token=c0ffd030-d6e4-4339-9d4b-697c4bfbfc40",
+        tags: [
+            "Flutter",
+            "Dart",
+            "Firebase",
+            "Python",
+            "ML",
+            "Flask"
+        ],
+        catagory: "Web App",
+        github: "https://github.com/Hitesh123mori/FraudEye",
+    },
 
+    {
+        id: "11",
+        title: "Paper2x",
+        description: "We completed a project using Flutter,Dart,Firebase,ML,Python,Flask,at Mined 2025, Nirma University. ",
+        image: "https://firebasestorage.googleapis.com/v0/b/mori-hitesh.appspot.com/o/Paper2x_cover.png?alt=media&token=2a5b5abb-6922-4144-b8ad-b40737957353",
+        tags: [
+            "Flutter",
+            "Dart",
+            "Firebase",
+            "Python",
+            "ML",
+            "Flask"
+        ],
+        catagory: "Web App",
+        github: "https://github.com/Hitesh123mori/Paper2X",
+    },
 
-
-
-
-
-
-
-
+    {
+        id: "12",
+        title: "ConnectWith",
+        description: "I completed a project using Flutter,Dart and Firebase and for efficient suggesting friends and posts i used graph algorithms.",
+        image: "https://firebasestorage.googleapis.com/v0/b/mori-hitesh.appspot.com/o/connectwith_cover.png?alt=media&token=dd44f39f-79c6-43a4-b48c-3a219915fab0",
+        tags: [
+            "Flutter",
+            "Dart",
+            "Firebase",
+            "Python",
+            "ML",
+            "Flask"
+        ],
+        catagory: "Android App",
+        github: "https://github.com/Hitesh123mori/Connect-with",
+    },
 
 
 
